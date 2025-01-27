@@ -1,0 +1,116 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": 1737971533152,
+      "date_time": "2025-01-27 09:52:13:152",
+      "proof_of_work": 32394,
+      "transactions": [],
+      "previous_hash": "",
+      "hash": "00009ba6c5843d032a7b578e27c780e8628fce702863d7d488d7d424980d0785"
+    },
+    {
+      "index": 1,
+      "timestamp": 1737971534490,
+      "date_time": "2025-01-27 09:52:14:490",
+      "proof_of_work": 40013746,
+      "transactions": [
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 10.0,
+          "signature": "30450221008dceedb37c6d6fa77ddc9809325a279ecf27b933daf74301232f652d3ff0151902203527aec75203739ba3e1f5150f3ef5d132216ed58c8715bcc07b3e10b0d91deb"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 20.0,
+          "signature": "3045022100c1ea2b2d6d9e2d45c44c9ccd3d72a5d463179757be2e7312ae309f1e6505bcbf02204b3bb503a0163db4df4eae5fce167af808f9eae21b83c04feb363a5fcfdb4c7a"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 30.0,
+          "signature": "3045022100e7dbf5592103ef59a48c7523b49239aa95cb2b52e3c8c349a86be0fe7f2474df0220010aef3001fe9cc69f384b2144f4825103b010a55ba222872e42c6344b90f842"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 40.0,
+          "signature": "3045022100fb7d042917f806459a026071976cea01c7bda6a8925e4b3109f315d060e2492202204106b8f11292f894755d3fe19e493c809c98c3c4fc63f1a82ca68774299b7a33"
+        }
+      ],
+      "previous_hash": "00009ba6c5843d032a7b578e27c780e8628fce702863d7d488d7d424980d0785",
+      "hash": "00008124155f4ec9564917dba6ee299e81d9056f9822e906303286202c313929"
+    },
+    {
+      "index": 2,
+      "timestamp": 1737971591901,
+      "date_time": "2025-01-27 09:53:11:901",
+      "proof_of_work": 70001635,
+      "transactions": [
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 10.0,
+          "signature": "30450221008dceedb37c6d6fa77ddc9809325a279ecf27b933daf74301232f652d3ff0151902203527aec75203739ba3e1f5150f3ef5d132216ed58c8715bcc07b3e10b0d91deb"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 20.0,
+          "signature": "3045022100c1ea2b2d6d9e2d45c44c9ccd3d72a5d463179757be2e7312ae309f1e6505bcbf02204b3bb503a0163db4df4eae5fce167af808f9eae21b83c04feb363a5fcfdb4c7a"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 30.0,
+          "signature": "3045022100e7dbf5592103ef59a48c7523b49239aa95cb2b52e3c8c349a86be0fe7f2474df0220010aef3001fe9cc69f384b2144f4825103b010a55ba222872e42c6344b90f842"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 40.0,
+          "signature": "3045022100fb7d042917f806459a026071976cea01c7bda6a8925e4b3109f315d060e2492202204106b8f11292f894755d3fe19e493c809c98c3c4fc63f1a82ca68774299b7a33"
+        }
+      ],
+      "previous_hash": "00008124155f4ec9564917dba6ee299e81d9056f9822e906303286202c313929",
+      "hash": "000030adf9058c2869efc4502350a11164cd506a81d20d13d7e149c7f91fdb33"
+    },
+    {
+      "index": 3,
+      "timestamp": 1737971606480,
+      "date_time": "2025-01-27 09:53:26:480",
+      "proof_of_work": 50003882,
+      "transactions": [
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 10.0,
+          "signature": "30450221008dceedb37c6d6fa77ddc9809325a279ecf27b933daf74301232f652d3ff0151902203527aec75203739ba3e1f5150f3ef5d132216ed58c8715bcc07b3e10b0d91deb"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 20.0,
+          "signature": "3045022100c1ea2b2d6d9e2d45c44c9ccd3d72a5d463179757be2e7312ae309f1e6505bcbf02204b3bb503a0163db4df4eae5fce167af808f9eae21b83c04feb363a5fcfdb4c7a"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 30.0,
+          "signature": "3045022100e7dbf5592103ef59a48c7523b49239aa95cb2b52e3c8c349a86be0fe7f2474df0220010aef3001fe9cc69f384b2144f4825103b010a55ba222872e42c6344b90f842"
+        },
+        {
+          "sender": "Sender: Alice",
+          "recipient": "Recipient: Bob",
+          "amount": 40.0,
+          "signature": "3045022100fb7d042917f806459a026071976cea01c7bda6a8925e4b3109f315d060e2492202204106b8f11292f894755d3fe19e493c809c98c3c4fc63f1a82ca68774299b7a33"
+        }
+      ],
+      "previous_hash": "000030adf9058c2869efc4502350a11164cd506a81d20d13d7e149c7f91fdb33",
+      "hash": "00002c509822e6bc1b5a87fa61d42da7be0a10fec75c2cd5b97aac60db382538"
+    }
+  ],
+  "difficulty": 4
+}
